@@ -16,16 +16,19 @@ It contains structured investigations, technical analysis, detection notes, and 
 - Consistent documentation and evidence collection  
 
 
-# Repository Structure
+# Repository Structure 
 
-security-labs-journal/
-│
-├── windows-event-logs/         # Event ID analysis, detection notes
-├── splunk-bots/                # SPL queries, investigation writeups
-├── phishing-analysis/          # PhishTank samples, IOC extraction
-├── pcap-analysis/              # Wireshark network forensics
-├── letsdefend-investigations/  # SOC alert triage reports
-├── cyberdefenders/             # Blue team challenge solutions
+| Folder Name                | Purpose / Contents                                   |
+|----------------------------|-------------------------------------------------------|
+| windows-event-logs         | Event ID analysis, detection notes                   |
+| splunk-bots                | SPL queries, BOTS investigations                     |
+| phishing-analysis          | PhishTank samples, IOC extraction                    |
+| pcap-analysis              | Wireshark network forensics                          |
+| letsdefend-investigations  | SOC alert triage reports                             |
+| cyberdefenders             | Blue team challenge solutions                        |
+| week-1                     | Foundational notes & exercises                       |
+| week-2                     | SIEM, OWASP, early defensive labs                    |
+
 
 
 # Tools & Technologies
