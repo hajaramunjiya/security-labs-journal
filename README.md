@@ -47,7 +47,3 @@ It contains structured investigations, technical analysis, detection notes, and 
 # Purpose
 To maintain a professional, structured record of my cybersecurity learning and practical investigations.  
 This journal reflects my progress, technical skills, and readiness for real SOC analyst responsibilities through hands‑on analysis and documentation.
-
-
-nterview-prep/             # SOC interview notes & practice answers
-
